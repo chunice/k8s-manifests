@@ -10,3 +10,4 @@ As nodes are removed from the cluster, those Pods are garbage collected.
 ## Manifests
 
 [daemonset.yaml](daemonset.yaml)
+[daemonset_redis.yaml](daemonset_redis.yaml)
